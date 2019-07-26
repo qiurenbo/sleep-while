@@ -1,4 +1,4 @@
-# unicorn-fun [![npm version](https://badge.fury.io/js/sleep-while.svg)](https://badge.fury.io/js/sleep-while)[![Build Status](https://travis-ci.com/qiurenbo/sleep-while.svg?branch=master)](https://travis-ci.com/qiurenbo/sleep-while)
+# sleep-while [![npm version](https://badge.fury.io/js/sleep-while.svg)](https://badge.fury.io/js/sleep-while)[![Build Status](https://travis-ci.com/qiurenbo/sleep-while.svg?branch=master)](https://travis-ci.com/qiurenbo/sleep-while)
 
 ## Install
 
